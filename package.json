@@ -1,6 +1,6 @@
 {
   "name": "vidom",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "",
   "keywords": [],
   "main": "lib/vidom.js",
